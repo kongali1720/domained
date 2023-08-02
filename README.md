@@ -35,7 +35,7 @@
     $ cd Desktop
     $ mkdir Domained
     $ cd Domained
-    $ sudo git clone https://github.com/kongali1720/domained.git
+    $ sudo git clone https://github.com/TypeError/domained.git
     $ ls
     $ cd domained
     $ ls
