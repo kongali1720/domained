@@ -9,6 +9,14 @@
   credentials checking.
   Several tools are integrated with the Domained tool that covers the enumeration phase, reporting, and wordlists. Domained tools will allow the penetration tester to verify the target against different programs.
 
+---
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWM1NnJvY2xxOHJjZ2UxeWl4OXg5YjNtNXB5Y3Rja3VhNWs0OTVkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wq3ZJMlsboL3OgnZBS/giphy.gif" width="400"/>
+</p>
+
+---
+
 # Note: Make Sure You have Python Installed on your System, as this is a python-based tool. 
 
 # Click to check the Installation process: Python Installation Steps on Linux Included Subdomain Enumeration Tools:
